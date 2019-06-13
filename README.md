@@ -4,9 +4,9 @@ AtCoderをFortranで解きます。
 
 ---
 
-## コンパイルコマンド
+## コンパイル&実行コマンド
 ```
-gfortran 名前.f95 -o 名前.exe
+python execution.py [filepath]
 ```
 
 ---
